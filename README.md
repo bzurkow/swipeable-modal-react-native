@@ -2,8 +2,8 @@
 
 This package delivers a lightweight "pop up" modal that can be swiped right or left. Each direction can receive it's own function to do whatever you would like it to!
 
-![Screenshot](./screenshots/ModalOpen.jpeg)
-![Screenshot](./screenshots/Right.jpeg)
+[Screenshot](./screenshots/ModalOpen.jpeg)
+[Screenshot](./screenshots/Right.jpeg)
 
 # Usage
 
@@ -35,7 +35,7 @@ export default class Something extends Component {
 
 Under the default settings, a button will be rendered like such:
 
-![Screenshot](./screenshots/DefaultButton.jpeg)
+[Screenshot](./screenshots/DefaultButton.jpeg)
 
 This can be disabled by props.
 
