@@ -1,0 +1,21 @@
+{
+  "name": "swipeable-modal-react-native",
+  "version": "1.0.0",
+  "description": "A react-native modal component with built in swipe animations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "component",
+    "modal"
+  ],
+  "author": "Ben Zurkow",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-native": "^0.57.5"
+  }
+}
